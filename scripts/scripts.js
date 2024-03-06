@@ -132,10 +132,10 @@ async function loadPage() {
   loadDelayed();
 }
 
-const alertText = () => {
-    alert("Texto de prueba");
-}
+// const alertText = () => {
+//     alert("Texto de prueba");
+// }
 
-alertText();
+// alertText();
 
 loadPage();
