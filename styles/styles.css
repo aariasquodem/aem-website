@@ -191,8 +191,8 @@ main .section {
 }
 
 .otra-clase.yellow.prueba-otra.otra-compuesta{
-  color: white;
-  background: yellow;
+  color: #7d7d7d;
+  background: #ffff6e;
 }
 
 @media (width >= 600px) {
